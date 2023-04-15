@@ -1,0 +1,14 @@
+< !-- This is a comment - w3schools intropage tags -->
+< !--The tags used here are :- br tag -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Second Title</title>
+</head>
+<body>
+<h1>My Second Heading</h1>
+<p>My second paragraph .I will now use line break tag from here<br>This is the next line</p>
+</body>
+</html>
