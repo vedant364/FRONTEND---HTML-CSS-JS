@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<h1>The LANG ATTRIBUTE ----en and can also put country code</h1>
+<html lang = "en-US">
+<head>
+<title>HTML Attributes</title>
+<head>
+<body>
+
+<h1>The TITLE ATTRIBUTE</h1>
+<p title="I'm a tooltip !"> This is a paragraph</p>
+
+<h1>The href attribute</h1>
+
+<p>This <a href="https://www.google.com/">link </a> leads to google.</p>
+
+<h1> Below is an enbedded image using url --- ABSOLUTE URL ---4 ways but last way is best for all image embedding  </h1>
+
+
+<h1>The SRC ATTRIBUTE</h1>
+<img src="https://cdn.pixabay.com/photo/2023/04/03/11/45/water-7896610_960_720.jpg">
+
+
+<h1>The ALT ATTRIBUTE</h1>
+<img src="https://cdn.pixabay.com/photo/2023/04/03/11/45/water-7896610_960_720.jpg" alt="absolute url image">
+
+<img src="https://cdn.pixabay.com/photo/2023/04/03/11/45/water-7896610_960_720.jpg" alt="absolute url image" width ="100">
+
+<h1>The WIDTH AND HEIGHT ATTRIBUTES</h1>
+
+<img src="https://cdn.pixabay.com/photo/2023/04/03/11/45/water-7896610_960_720.jpg" alt="absolute url image"  width ="100" height ="100" >
+
+
+<h1> RELATIVE URL :-- RELATIVE TO CURRENT PAGE and relative to domain---we want it so that it is not relative to doamin as domain can change</h1>
+
+
+<!--Below ARENT WORKING FIGURE OUT WHY AND/OR ASK MAM IN CSE STAFF ROOM -->
+
+
+<img src ="img_girl.jpg" alt="relative url image"  width ="100" height ="100">
+
+<img src="/images/img_girl.jpg" alt="relative url image"  width ="100" height ="100">
+
+
+<hr>
+
+<h1>The STYLE ATTRIBUTE</h1>
+<p style = "color:red;">This is  a red colored paragraph.</p>
+
+
+
+
+
+
+</body>
+</html>
