@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>HTML PARAGRAPHS</title>
+</head>
+
+<body>
+
+<h1>Simple Paragraphs</h1>
+<p>First paragraph.</p>
+<p>Second paragraph.</p>
+<p>Third praragraph.</p>
+
+<hr>
+
+<h1> Above used was the hr tag to draw a horizontal line<h1>
+
+<hr>
+
+<h1>Below is an example of br tag</h1>
+
+<p>This line will now <br>break into<br>pieces.</p>
+
+<hr>
+
+<h1>Below is PRE TAG</h1>
+<p>Pre tag which preserves both line breaks and spaces , displays in a fixed width format(usually Courier)</p>
+<pre>
+     My Bonnie lies over the ocean.
+     My Bonnie lies over the sea.
+     My Bonnie lies over the ocean .
+     Oh, Bring back my bonnie to me.
+     
+</pre>
+
+     
