@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>HTML HEADINGS</title>
+</head>
+<body>
+<h1>type of heading such as h1 to h6 are covered in prev. repos</h1>
+<h1> Bigger Headings using STYLE attribute and CSS font-size property:-</h1>
+<h1 style = "font-size:60px;"> FIRST BIGGER HEADING</h1>
+</body>
+</html>
