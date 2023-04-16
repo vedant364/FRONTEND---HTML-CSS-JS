@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HMTL Basics</title>
+</head>
+
+<body>
+<p>Below lines display the different typs of heading tags in descending order</p>
+<h1>This is a heading.</h1>
+<h2>This is a heading.</h2>
+<h3>This is a heading.</h3>
+<h4>This is a heading.</h4>
+<h5>This is a heading.</h5>
+<h6>This is a heading.</h6>
+
+<h1>Below sentence contains an inserted link</h1>
+<p>This <a href = "https://www.google.com/">link</a> redirects you to google.
+
+
+<h1>Below contains an inserted image of a mule</h1>
+<img src="C:\Users\media\Downloads\Mule.jpg" alt="no" width="200" height="200">
