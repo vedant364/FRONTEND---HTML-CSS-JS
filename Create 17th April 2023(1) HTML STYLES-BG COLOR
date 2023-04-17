@@ -1,0 +1,12 @@
+<!--CSS Properties to add style to elements-->
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>HTML Styles Using CSS Properties</title>
+</head>
+<h1>Below changes the background-color of body,heading,paragraph of the document</h1>
+<body style="background-color:powderblue;">
+<h2 style="background-color:red;">Demo Heading</h2>
+<p style="background-color:pink;">Demo Paragraph</p>
+</body>
+</html>
