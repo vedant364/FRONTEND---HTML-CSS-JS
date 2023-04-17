@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+<title>CSS properties-TEXT COLOR, FONTS, font SIZE,TEXT ALIGNMENT</title>
+</head>
+<body>
+<h1 style="color:purple;">Some Heading that's purple.</h1>
+<p style="color:red;">Some red paragraph.</p>
+<hr>
+<h1 style="font-family:verdana;">Verdana font family</h1>
+<p style="font-family:courier;">Courier font family</p>
+<hr>
+<h1 style"font-size:300%;">Three hundred percent bigger</h1>
+<p style="font-size:1%;">One sixty percentage.</p>
+<hr>
+<h1 style="text-align:center;">CENTER ALIGNED TEXT</h1>
+<p style="text-align:right;">RIGHT ALIGNED TEXT</p>
+</body>
+</html>
