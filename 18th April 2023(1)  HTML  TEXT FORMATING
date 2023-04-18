@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>HTML Text Formatting</title>
+</head>
+<body>
+<h1>below are differently formatted text in each line</h1>
+<p><b>This is Bold.</b><br>
+<i>This is italics for foreign or technical terms</i><br>
+<emp>This is for empasis the screen reader will give special emphasis by giving verbal stress on this when reading out.</emp><br>
+<small>This is a text of smaller size .</small><br>
+<sub>This is a subscript</sub><br>
+<sup>This is  a superscript.</sup><br>
+<strong>This is used to show show that this text is important</strong><br>
+<ins>Inserted text - ususally underlined by browser.</ins><br>
+<del>This is delted text and is ususally striked through a line in the browser.</del><br>
+<mark>This text is marked or highlited.</mark><br>
+</p>
+</body>
+</html>
