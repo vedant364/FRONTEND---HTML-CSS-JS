@@ -1,0 +1,29 @@
+<p>Marking up abbreviations can give useful information to browsers, translation systems and search-engines.</p>
+
+
+<h1> Short Quotation Marks</h1>
+<p>The <q>French-Art Galaria is a beauty to behold</p>
+
+<h1>Making abbreviations</h1>
+<p>The <abbr title="World Health Oraganisation">WHO</abbr> makes policies that countries must adhere to when it comes to 
+health GDP allocation.</p>
+
+<h1>Address</h1>
+<address>
+Written by John Doe.<br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+<h1>Cite</h1>
+<p><cite>The Scream</cite> by Edward Munch in 1893.</p>
+
+<h1>Bidirectional Override</h1>
+<p><bdo dir="rtl">This text has been overriden of its direction</p>
+
+
+
+</body>
+</html>
